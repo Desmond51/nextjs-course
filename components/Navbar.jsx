@@ -7,7 +7,7 @@ import React, { useEffect, useState } from 'react'
 
 const Navbar = () => {
   const isUSerLoggedIn =true;
-
+    
   const [providers, setProviders] = useState(null)
   const [toggleDropdown, setToggleDropdown] = useState(false)
 
