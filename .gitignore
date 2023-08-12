@@ -14,7 +14,8 @@
 
 # production
 /build
-
+# secret key
+.env
 # misc
 .DS_Store
 *.pem
